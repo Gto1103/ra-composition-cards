@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/4ouqgnxrpy8iiwu2?svg=true)](https://ci.appveyor.com/project/Gto1103/ra-forms-steps)
+[![Build status](https://ci.appveyor.com/api/projects/status/51b1psc0wvmodvso?svg=true)](https://ci.appveyor.com/project/Gto1103/ra-composition-cards)
 
 [Страница проекта](https://gto1103.github.io/ra-forms-steps/)
 
