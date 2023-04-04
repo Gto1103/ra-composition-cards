@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/51b1psc0wvmodvso?svg=true)](https://ci.appveyor.com/project/Gto1103/ra-composition-cards)
 
-[Страница проекта](https://gto1103.github.io/ra-forms-steps/)
+[Страница проекта](https://gto1103.github.io/ra-composition-cards/)
 
 # Карточки
 
